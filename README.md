@@ -3,9 +3,7 @@ A platform that enables tourists to scan and check details of artworks in the ga
 
 Structure of the Prototype:
 • Gallery Searcher: Search and Locate the current library to load the artwork data.
-
 • Recognition: Use image target in Vuforia to recognize the image.
-
 • Animation: Parallax effect or animation can be applied to famous artworks.
 • Information: The UI panel showing information will appear if function triggered.
 • Storage: The recognized artworks can then be stored in their own digital library, no matter the APP is closed or not.
