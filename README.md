@@ -15,8 +15,8 @@ A platform that enables tourists to scan and check details of artworks in the ga
 
 • Visual: I will URP in unity to apply post-processing effect and reduce the lag in the app. 
 
+![alt text](https://github.com/UxxHans/Rainbow-Cats-Gallery-AR-APP/blob/main/Pictures/4.webp)
 ![alt text](https://github.com/UxxHans/Rainbow-Cats-Gallery-AR-APP/blob/main/Pictures/1.webp)
 ![alt text](https://github.com/UxxHans/Rainbow-Cats-Gallery-AR-APP/blob/main/Pictures/2.webp)
 ![alt text](https://github.com/UxxHans/Rainbow-Cats-Gallery-AR-APP/blob/main/Pictures/3.webp)
-![alt text](https://github.com/UxxHans/Rainbow-Cats-Gallery-AR-APP/blob/main/Pictures/4.webp)
 ![alt text](https://github.com/UxxHans/Rainbow-Cats-Gallery-AR-APP/blob/main/Pictures/5.webp)
